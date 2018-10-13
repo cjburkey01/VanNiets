@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "normal": {
+      "model": "vanniets:sieve"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "vanniets",
+  "name": "Van Niets",
+  "description": "An Ex Nihilo recreation!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["CJ Burkey"],
+  "credits": "The Forge and FML guys, for making forge",
+  "logoFile": "logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
